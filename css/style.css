@@ -276,7 +276,7 @@ header .fa-bars{
     display: flex;
 
 }
- .produtos .box-container .box:hover .imagem .icons{
+.produtos .box-container .box:hover .imagem .icons{
     bottom: 0;
 } 
 
